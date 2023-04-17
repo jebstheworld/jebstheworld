@@ -1,0 +1,411 @@
+[dohtml]<link href="https://vannityplates.github.io/vann-characters.css" rel="stylesheet">
+<link href="https://vannityplates.github.io/braveheart.css" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap');
+</style>
+
+<div class="braveheart"><div class="braveheart-swap"></div>
+
+<div class="braveheart-tab" id="lyna">
+<input type="radio" name="tabs" id="tab1" />
+<label for="tab1" title="LYNA"><span class="s s-bubbles"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/Drv8nMM/lyna.png');"></div>
+<div class="brave-blurbs">
+<blurb>GRYFFINDOR</blurb>
+<blurb>FOURTH YEAR</blurb>
+<blurb>FIFTEEN</blurb>
+<blurb>FEMALE</blurb>
+<blurb>BISEXUAL</blurb>
+<blurb>PUREBLOOD</blurb>
+<blurb>ENGAGED</blurb>
+</div></div>
+
+<div class="brave-name">LYNA PRESTON</div>
+<div class="brave-plots"><b>eldest sister</b> of  three. changed her <b>last name</b> this year, under her <b>grandmother's</b> care. misses <b>her father</b>. preston family owns <b>luxury hotel</b> properties around england. very <b>bubbly</b> and <b>overly talkative.</b> often avoids <b>confronting her own emotions</b>. willing to be <b>friends with anyone</b>. not afraid to <b>speak her mind</b> about anything. active <b>club member</b>. idealizes <b>romance</b>, and bases a lot of her decisions around <b>movies</b> she saw as a girl. desperately wants to be a <b>healer</b> but is <b>currently struggling</b> with it. loves <b>all things feminine.</b></div>
+
+<div class="brave-idea-box"><div class="brave-ideas"><idea>pep squad</idea>
+<idea>orchestra</idea>
+<idea>wizard theatre</idea>
+<idea>art club</idea>
+<idea>makeover buddies</idea>
+<idea>healing tutors</idea>
+<idea>let her try to heal you</idea></div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=17082" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="nico">
+<input type="radio" name="tabs" id="tab2" />
+<label for="tab2" title="NICO"><span class="s s-fire-filled"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/2dNqmJP/nico.png');"></div>
+<div class="brave-blurbs">
+<blurb>PHYS ED (HIIT) TA</blurb>
+<blurb>TWENTY-TWO</blurb>
+<blurb>MALE</blurb>
+<blurb>PANSEXUAL</blurb>
+<blurb>1/4 VAMPIRE</blurb>
+<blurb>IN A RELATIONSHIP</blurb>
+</div></div>
+
+<div class="brave-name">NICOLAO MONTERO</div>
+<div class="brave-plots"><b>former quidditch pro</b> for spanish international team. retired due to complications from being <b>poisoned</b>. estranged from his <b>family</b> and <b>very lonely</b> under the surface. <B>easily exciteable</b> and extremely <b>passionate</b> about his interests. has a bit of a <b>short fuse</b> if someone gets on his nerves. likes to <b>run</b> in the evenings and early mornings. dealing with some <B>body insecurity</b> because of his scar and health complications. usually <b>pushes himself too hard</b>. dating <b>vanille rivera</b>.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>p.e. students</idea>
+<idea>running club</idea>
+<idea>quidditch kids</idea>
+<idea>catch him on a run</idea>
+<idea>drinking buddies</idea>
+<idea>friends w/benefits</idea>
+<idea>fellow vampires</idea>
+<idea>recognize him as a former pro</idea>
+<idea>hogsmeade neighbors</idea>
+<idea>let him show off his dog</idea></div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=17241" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+
+<div class="braveheart-tab" id="audrey">
+<input type="radio" name="tabs" id="tab3" />
+<label for="tab3" title="AUDREY"><span class="s s-peach"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/T0dvMmj/audrey.png');"></div>
+<div class="brave-blurbs">
+<blurb>HUFFLEPUFF</blurb>
+<blurb>FIFTH YEAR</blurb>
+<blurb>SIXTEEN</blurb>
+<blurb>MALE</blurb>
+<blurb>BISEXUAL</blurb>
+<blurb>MUGGLEBORN</blurb>
+<blurb>IN A RELATIONSHIP</blurb>
+<blurb>QUIDDITCH CHASER</blurb>
+</div></div>
+
+<div class="brave-name">AUDREY HADAWAY-VALE</div>
+<div class="brave-plots">adopted from <b>japan</b> as a baby by a muggle couple. raised in <b>ballet</b>. suffers from <b>anxiety</b>, and has trouble sharing his <b>true feelings</b>. very driven, mostly out of <B>fear of being abandoned</b>. was fairly <b>anti-social</b> in his fourth year, but is getting back into social circles. tends to be a <b>follower</b> and get dragged along. very nervous talking about anything romantic or sexual. secretly dating <b>odin preston</b>.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>roomies!</idea>
+<idea>fellow quidditch players</idea>
+<idea>best friends</idea>
+<idea>get him to stop studying</idea>
+<idea>dance club!</idea>
+<idea>catch him half-asleep</idea>
+<idea>teach him about japanese culture</idea>
+<idea>ask for school help</idea>
+<idea>bully him?</idea></div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=17517" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="nate">
+<input type="radio" name="tabs" id="tab4" />
+<label for="tab4" title="NATHANIEL"><span class="s s-balloon"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/Rpd7Kjh/nate.png');"></div>
+<div class="brave-blurbs">
+<blurb>HEALER (HOGWARTS)</blurb>
+<blurb>FORTY-TWO</blurb>
+<blurb>MALE</blurb>
+<blurb>BISEXUAL</blurb>
+<blurb>WEREWOLF</blurb>
+<blurb>PUREBLOOD</blurb>
+<blurb>MARRIED</blurb>
+</div></div>
+
+
+<div class="brave-name">NATHANIEL RICHTER</div>
+<div class="brave-plots">born to the <b>avery</b> family, and <b>disowned</b> following a <B>divorce</b> from his first wife. former <b>private healer</b> to the wealthy and former <b>healer</b> at <b>st. mungo's.</b> started as <B>(former) head matron</b> in 2015. turned into a <b>werewolf</b> after the 2019 attacks, and returned to hogwarts as a regular <b>healer.</b> has <b>three kids</b> (one older, pureblood with his first wife, two younger). generally <b>bubbly</b> and very <B>good with kids</b>, but tends to <b>avoid conflict</b> and negative feelings. married to head of sports department at the ministry, <b>flynn richter</b>.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>pureblood drama oof</idea>
+<idea>former coworkers (at st. mungo's)</idea> <idea>current hogwarts coworkers</idea> <idea>faculty friends</idea> <idea>if u need some healing <3</idea> <idea>workout buddies</idea> <idea>student plots!! need healing?</idea> <idea>students who want some healing mentorship maybe?</idea> <idea>former clients of his private healing?</idea></div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=18759" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="mika">
+<input type="radio" name="tabs" id="tab5" />
+<label for="tab5" title="MIHALIS"><span class="s s-scale"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/8xBBbX2/mika.png');"></div>
+<div class="brave-blurbs">
+<blurb>SPEECHWRITER</blurb>
+<blurb>THIRTY-ONE</blurb>
+<blurb>MALE</blurb>
+<blurb>HOMOSEXUAL</blurb>
+<blurb>PUREBLOOD</blurb>
+<blurb>MARRIED</blurb>
+</div></div>
+
+
+<div class="brave-name">MIHALIS VERE</div>
+<div class="brave-plots">from a small <b>pureblood</b> family trying to gain notoriety. <b>ghostwrote</b> a number of novels and research papers. currently working as the <b>ministry's speechwriter</b>. tends to be <b>very blunt</b> with people who rank below him. tends to <B>shift his demeanor</b> around people he has to respect. married to a <b>wada graduate</b> <b>diana vere</b>. hiding his <b>sexuality</b>. very much a <b>mama's boy</b> at heart. isn't necessarily purist, but is overall <b>judgmental</b>. always looks for people he considers <b>intellectual equals</b> who he can argue with. thinks aurors are fairly brutish. tends to <b>wander</b> when he's bored at work.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>fellow purebloods</idea>
+<idea>ministry coworkers</idea>
+<idea>go to a show</idea>
+<idea>get a drink</idea>
+<idea>know his secret?/lord it over him?</idea>
+<idea>have him piss you off asking for speech info</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=17785" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="louka">
+<input type="radio" name="tabs" id="tab6" />
+<label for="tab6" title="LOUKA"><span class="s s-crown"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/0pN8fRL/louka-2.png');"></div>
+<div class="brave-blurbs">
+<blurb>SLYTHERIN</blurb>
+<blurb>SIXTH YEAR</blurb>
+<blurb>SEVENTEEN</blurb>
+<blurb>MALE</blurb>
+<blurb>HOMOSEXUAL</blurb>
+<blurb>HALFBLOOD</blurb>
+<blurb>IN A RELATIONSHIP</blurb>
+</div></div>
+
+
+<div class="brave-name">LOUKA CHARBONNEAU</div>
+<div class="brave-plots">from a <b>rich</b> family, raised by <b>single muggle mother</b>, who owns a <b>fashion label</b>. formerly <b>modeled</b> throughout his childhood. always <b>ambitious</b> in academics, aiming to  be <b>minister</b>. usually <b>congenial</b> if you're worth his time. almost always judges based on <b>first impressions</b>. doesn't like people who <b>waste their talent</b>, and sees the talented as <b>rivals</b> if their goals are similar. hates <b>quidditch</b> and sports in general. always <b>well-groomed.</b> gets a big kick out of <b>pissing people off</b>, but always assumes he's <b>better than you</b>. dating <b>mars oscine</b> since december 2021.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>academic rivals</idea>
+<idea>former flings</idea>
+<idea>mutual hatred</idea>
+<idea>professors to suck up to</idea>
+<idea>friends that he actually respects</idea>
+<idea>talk about fashion</idea>
+<idea>notice his colognes</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=17020" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="stellan">
+<input type="radio" name="tabs" id="tab7" />
+<label for="tab7" title="STELLAN"><span class="s s-sparkle"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/xMRmhPq/stellan.png');"></div>
+<div class="brave-blurbs">
+<blurb>MALLORY'S CLERK</blurb>
+<blurb>EIGHTEEN</blurb>
+<blurb>MALE</blurb>
+<blurb>BISEXUAL</blurb>
+<blurb>HALF-VEELA</blurb>
+<blurb>SINGLE</blurb>
+</div></div>
+
+
+<div class="brave-name">STELLAN MALLORY</div>
+<div class="brave-plots">adopted son of the mallory family, owner of <b>mallory's green grocer</b>, a well known grocer in diagon alley. younger brother to <b>yuliana mallory</b>. just graduated from hogwarts in 2021, former <b>gryffindor</b>. generally <b>charming</b> and good at fitting in with different crowds. not above using his <b>veela charm</b> for personal gain. generally seems to have <b>selfish</b> motivations, mostly as a result of his past. byproduct of unprocessed trauma. generally upbeat and positive, and quick-witted. has a scruffy/scrappy vibe. loves food.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>old classmates/schoolmates</idea>
+<idea>grocery store regulars?</idea>
+<idea>know his sister?</idea>
+<idea>exes</idea>
+<idea>future flings</idea>
+<idea>short or long term relationships?</idea>
+<idea>start shit with him</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=19108" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="julyan">
+<input type="radio" name="tabs" id="tab8" />
+<label for="tab8" title="JULYAN"><span class="s s-comet"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/52dvC2V/julyan.png');"></div>
+<div class="brave-blurbs">
+<blurb>DIVINATION PROF</blurb>
+<blurb>THIRTY-ONE</blurb>
+<blurb>MALE</blurb>
+<blurb>PANSEXUAL</blurb>
+<blurb>HALFBLOOD</blurb>
+<blurb>SEER</blurb>
+<blurb>ANIMAGUS</blurb>
+<blurb>IN A RELATIONSHIP</blurb>
+</div></div>
+
+
+<div class="brave-name">JULYAN ADAIR</div>
+<div class="brave-plots">walking <b>train-wreck</b> trying to start his <b>adult life</b> properly. spent a long time <b>traveling the world</b> rather recklessly. likes to have a <b>positive atmosphere</b> in class. hates discussing <b>his own emotions</b>. trying to nail down his <b>sense of self</b>. suffers from <b>chronic migraines</b>, especially after having a vision. <b>seer</b> and <b>animagus</b>. trying not to <b>drink</b> anymore. dealing with <b>depression</b>. voracious eater, will eat just about anything. partial to spicy foods. in a relationship with comc professor <b>rook landon</b>. traveled the world in his 20s, and used to be a divination TA at ilvermorny.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>old classmates/schoolmates</idea>
+<idea>fellow faculty</idea>
+<idea>divination students</idea>
+<idea>seers</idea>
+<idea>get a tarot reading</idea>
+<idea>catch him w/a migraine</idea>
+<idea>be the subject of a vision</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=17117" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="jude">
+<input type="radio" name="tabs" id="tab9" checked />
+<label for="tab9" title="JUDE"><span class="s s-crystal"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/8rWvync/jude.png');"></div>
+<div class="brave-blurbs">
+<blurb>BEAST DIV. HEAD</blurb>
+<blurb>THIRTY-SIX</blurb>
+<blurb>MALE</blurb>
+<blurb>PANSEXUAL</blurb>
+<blurb>PUREBLOOD</blurb>
+<blurb>DIVORCED</blurb>
+</div></div>
+
+
+<div class="brave-name">JUDE SUN</div>
+<div class="brave-plots"><b>head</b> of the ministry's <b>beast division</b>. middle child of three to a branch of the <B>sun family</b>. ex-husband of <B>aurelie darlington</b>, divorced 12+ years ago. loving <b>father</b> of two boys who are hogwarts-age (currently npcs :eyes:). generally <b>straight-laced</b> on the surface, and outwardly <b>ambitious</b>, though much of his personality is shaped by familial expectations. generally <B>friendly</b> and respectful, but prefers time to himself. very much a not-so-secret <b>creature geek</b>, and will talk your ear off about research if you let him. not against dating but also not actively looking, either. <b>former slytherin</b>. a touch <b>judgmental</b>, but usually keeps it to himself.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>coworkers</idea>
+<idea>fellow creature enthusiasts</idea>
+<idea>purebloods (esp relatives or ex-relatives?)</idea>
+<idea>old schoolmates</idea>
+<idea>relationships? maybe?</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=19507" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="dima">
+<input type="radio" name="tabs" id="tab10" />
+<label for="tab10" title="DIMITRI"><span class="s s-eclipse-1"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/8nyRdBG/dima.png');"></div>
+<div class="brave-blurbs">
+<blurb>AUROR TRAINEE</blurb>
+<blurb>TWENTY-ONE</blurb>
+<blurb>MALE</blurb>
+<blurb>PANSEXUAL</blurb>
+<blurb>HALF-VAMPIRE</blurb>
+<blurb>IN A RELATIONSHIP</blurb>
+</div></div>
+
+
+<div class="brave-name">DIMITRI ALEKSEYEV</div>
+<div class="brave-plots">grew up in a small town in rural russia. generally acts <b>without thinking</b>. secretly a dork with an anonymous aesthetic wiztagram, but pretending he's cool. pretends he's <b>independent</b>, but gets very attached to his friends and loved ones. loves to <b>tease</b> but very easily embarrassed himself if you know what to tease him about. used to pretend he was a <B>flirt</b> but never committed. takes being friendly as a sign to be <b>overly familiar</b>. not good with boundaries. a little bit <b>naïve</b> because of his closed-off upbringing. gets very <b>clingy</b> to people he's close with. kind of <b>stupid/dense.</b> dating <b>val song</b></div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>coworkers (friends? find him annoying as fuck?)</idea>
+<idea>hogsmeade neighbors</idea>
+<idea>discover he's a big loser?</idea>
+<idea>lots of friends >:)</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=18036" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+
+<div class="braveheart-tab" id="caelum">
+<input type="radio" name="tabs" id="tab11" />
+<label for="tab11" title="CAELUM"><span class="s s-rose"></span></label>
+
+<div class="brave-cont">
+
+<div class="brave-icon">
+<div class="brave-bg" style="background-image: url('https://i.ibb.co/47zdj74/caelum.png');"></div>
+<div class="brave-blurbs">
+<blurb>UNSPEAKABLE</blurb>
+<blurb>TWENTY</blurb>
+<blurb>MALE</blurb>
+<blurb>PANSEXUAL</blurb>
+<blurb>HALFBLOOD</blurb>
+<blurb>METAMORPHMAGUS</blurb>
+<blurb>SINGLE</blurb>
+</div></div>
+
+
+<div class="brave-name">CAELUM AMATORE</div>
+<div class="brave-plots">italian, <B>gryffindor alumnus</b>. truly apathetic about most things but kind of <b>here for a good time/not a long time.</b> also a <B> fraternal twin</b> to leo amatore. dealing (poorly) with depression and severe <b>self-worth</b> issues. tends to be a bit of a shithead. learning to do <b>piercings</b> and <b>tattoos</b> in private, mostly. tends to use his abilities frivolously. body tends to change with <b>his emotional state</b>. usually appears very <b>chill.</b> used to be a bit of a flirt in school.</div>
+
+<div class="brave-idea-box"><div class="brave-ideas">
+<idea>ministry coworkers</idea>
+<idea>friends</idea>
+<idea>smoking buddies</idea>
+<idea>former flings</idea>
+<idea>school connections?</idea>
+<idea>know his brother?</idea>
+<idea>beat his ass?</idea>
+</div></div>
+
+<a href="http://xalohomorax.jcink.net/index.php?showtopic=18393" title="application"><div class="brave-app"></div></a>
+<div class="brave-dot-1"></div><div class="brave-dot-2"></div>
+</div>
+</div>
+
+</div>
+[/dohtml]
